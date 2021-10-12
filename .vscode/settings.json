@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "src2/org.astro",
+        "src2/com.socket",
+        "src2/com.greetings",
+        "src2/org.fastsocket"
+    ]
+}
